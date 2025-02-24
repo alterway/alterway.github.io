@@ -30,7 +30,7 @@ twitter_username: alterway
 github_username:  alterway
 
 # Build settings
-theme: minima
+theme: jekflix
 plugins:
   - jekyll-feed
 
